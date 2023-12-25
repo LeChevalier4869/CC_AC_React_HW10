@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.showSum {
+    /* border: 1px dashed red; */
+    box-sizing: border-box;
+    display:block;
+    padding: 5px;
+    margin: auto;
+}
+
+#sum {
+    /* border: 1px dashed blue; */
+    margin: 20px 10px;
+    text-align: center;
+}
+
+.showSum > button {
+    /* border: 1px dashed green; */
+    position: relative;
+    left: 47%;  
+}
+
+.counter {
+    /* border: 1px dashed green; */
+    display: flex;
+    padding: 8px;
+    gap: 0;
+    margin: 20px 10px;
+    justify-content: center;
+    align-items: center;
+    min-width: 50%;
+}
+
+.counter > button {
+    padding: 10px;
+    width: 50px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter > h2 {
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    background-color: lightblue;
+}
