@@ -7,9 +7,9 @@
 .showSum {
     /* border: 1px dashed red; */
     box-sizing: border-box;
-    display:block;
     padding: 5px;
     margin: auto;
+    text-align: center;
 }
 
 #sum {
@@ -20,8 +20,6 @@
 
 .showSum > button {
     /* border: 1px dashed green; */
-    position: relative;
-    left: 55%;  
 }
 
 .counter {
