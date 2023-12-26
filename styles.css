@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background-color: aliceblue;
 }
 
 .showSum {
@@ -48,3 +49,8 @@
     text-align: center;
     background-color: lightblue;
 }
+
+#app {
+    text-align: center;
+}
+
