@@ -125,4 +125,5 @@ function App() {
 }
 
 // In Suminfo attribute === {attribute} such as counters = {counters}
+// release 1.0
 
